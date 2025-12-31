@@ -1,0 +1,2 @@
+# Adaptive-Bitcoin-Mempool-Fee-Prediction-Using-Multi-Feature-Analysis-and-RAG
+Developed an adaptive Bitcoin mempool optimization system that predicts optimal transaction fees using multi-feature analysis and (RAG). The model integrates fee rate, transaction age, and ancestor dependencies to improve fairness, reduce fee volatility, and enhance real-time transaction prioritization under dynamic network conditions.
